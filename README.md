@@ -18,4 +18,5 @@ Para saber mais sobre essa análise, acesse o link: [Analisando_os_Dados_do_Airb
 * [Portifólio Completo](https://github.com/RafaelAndradeDEV)
 
 ## **Outros projetos meus:**
-* [Files_Organizer]()
+* [Files_Organizer](https://github.com/RafaelAndradeDEV/Files_Organizer)
+* [WebScraping_and_Analysis](https://github.com/RafaelAndradeDEV/WebScraping_and_Analysis)
